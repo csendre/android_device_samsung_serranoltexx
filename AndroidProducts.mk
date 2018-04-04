@@ -15,3 +15,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aokp_serranoltexx.mk
+
+COMMON_LUNCH_CHOICES := \
+    aokp_serranoltexx-userdebug
